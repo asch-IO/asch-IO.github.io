@@ -1,24 +1,13 @@
-# asch下载链接
+## asch下载链接
 
 (我们没钱买服务器 所以就用这个凑合一下)
 
 ---
 
-## 
+## 项目前置
 
-- [🚀 我的博客正式开张](#) — 2026-07-02
-- [📘 用 GitHub Pages 搭建个人博客](#) — 2026-06-30
-- [💡 为什么程序员应该坚持写作](#) — 2026-06-25
+[.Net10下载链接](https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x64.exe)
+>不下载前置有可能导致崩溃/无法运行
 
----
 
-## 👤 关于我
 
-一个正在学习编程的开发者，目前主攻 JavaScript 和 Go。
-
-- GitHub: [@asch-IO](https://github.com/asch-IO)
-- 邮箱: your-email@example.com
-
----
-
-> 用 ❤️ 和 GitHub Pages 搭建
