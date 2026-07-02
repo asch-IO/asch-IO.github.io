@@ -9,7 +9,7 @@
 ## 项目前置
 
 [.Net10下载链接](https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x64.exe)
->不下载前置有可能导致崩溃/无法运行
+>被标记"需要Net"的项目需要下载该前置
 
 ---
 
