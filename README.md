@@ -1,6 +1,8 @@
-## asch下载链接
+## aschinstall
 
-(我们没钱买服务器 所以就用这个凑合一下)
+>所有可供下载下载的资源全部集中本网页
+
+[联系我们](mailto:aschinstall@163.com"我们的邮箱:aschinstall@163.com")
 
 ---
 
