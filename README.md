@@ -1,6 +1,6 @@
 # aschinstall
 
->所有可供下载下载的资源全部集中本网页
+>asch项目下载源
 
 [联系我们](mailto:aschinstall@163.com"我们的邮箱:aschinstall@163.com")
 
