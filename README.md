@@ -19,12 +19,14 @@
 
 [下载](https://看到的人.是.gay)
 
-使用方法:该产品可使用搞机助手刷入手机
-
-功能:选择游戏后可出现功能
-
-<font color="red">该产品处于内测 无法下载!</font> 
+<font color="red">该产品已被禁止下载!</font> 
 
 ---
 
-##
+## snTool
+
+[下载](https://zhoubb.lanzoue.com/ionxS3u6i6cb)
+
+>该产品为PyCharm项目 需要PyCharm和Python
+
+---
