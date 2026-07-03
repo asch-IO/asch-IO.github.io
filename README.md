@@ -15,7 +15,7 @@
 
 ## 卢卡外挂
 
-[下载](https://zhoubb.lanzoue.com/ioGAv3u29d9c)
+[下载](<!-- https://zhoubb.lanzoue.com/ioGAv3u29d9c\\ -->)
 
 使用方法:该产品可使用搞机助手刷入手机
 
