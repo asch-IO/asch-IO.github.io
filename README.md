@@ -37,7 +37,7 @@
 
 捆绑价格:<font color="blue">¥00.00</font>
 
-[购买](maito:aschinstall@163.com?subject=产品购买&body=购买"codemao小游戏捆绑包")
+[购买](mailto:aschinstall@163.com?subject=产品购买&body=购买"codemao小游戏捆绑包")
 
 
 
