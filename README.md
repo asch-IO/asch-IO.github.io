@@ -6,14 +6,14 @@
 
 ---
 
-## 项目前置
+# 项目前置
 
 [.Net10下载链接](https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x64.exe)
 >被标记"需要Net"的项目需要下载该前置
 
 ---
 
-## 卢卡外挂
+# 卢卡外挂
 
 <!-- https://zhoubb.lanzoue.com/ioGAv3u29d9c\\ -->
 
@@ -23,10 +23,22 @@
 
 ---
 
-## snTool
+# snTool
 
 [下载](https://zhoubb.lanzoue.com/ionxS3u6i6cb)
 
 >该产品为PyCharm项目 需要PyCharm和Python
 
 ---
+
+# 促销捆绑包
+
+## codemao小游戏捆绑包
+
+捆绑价格:<font color="blue">¥00.00</font>
+
+[购买]()
+
+
+
+[📧 打开邮箱发送咨询](mailto:aschinstall@163.com?subject=咨询购买&body=我想购买，我的联系方式：%0D%0A姓名：%0D%0A电话：)
