@@ -4,6 +4,8 @@
 
 [联系我们](mailto:aschinstall@163.com"我们的邮箱:aschinstall@163.com")
 
+购买的产品客服将在72小时内将您的产品给予你
+
 ---
 
 # 项目前置
